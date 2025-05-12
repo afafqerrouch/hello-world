@@ -14,4 +14,4 @@ My goal is to build clean, elegant, and meaningful web applications — and to g
 
 Thanks for visiting my profile!
 
-“Every day I learn something new. Every line of code brings me closer to my goal.” — Afaf
+> “Every day I learn something new. Every line of code brings me closer to my goal.” — Afaf
