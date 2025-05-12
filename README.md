@@ -1,4 +1,4 @@
-# Hi, I'm Afaf! 👋
+## Hi, I'm Afaf! 👋
 
 I'm currently learning Full Stack Web Development, focusing on building a strong foundation in Linux, CLI, Git, and GitHub.
 
