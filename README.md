@@ -1,4 +1,5 @@
 ## Hi, I'm Afaf! 👋
+
 I'm currently learning Full Stack Web Development, focusing on building a strong foundation in Linux, CLI, Git, and GitHub.
 
 I'm passionate about understanding how things work behind the scenes. I don't just want to write code — I want to understand why it works, how it connects, and how to improve it.
